@@ -1,5 +1,5 @@
 nltk==3.4.5
-Flask==1.1.1
+Flask==2.3.2
 python==3.6.8
 openjdk==11.0.4
 javac==11.0.4
